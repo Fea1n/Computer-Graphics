@@ -39,4 +39,11 @@
 5. [材质效果](https://blog.csdn.net/u014291990/article/details/103306889)
 
    
-
+   
+   
+   
+   
+   
+   增加后处理代码 示例
+   
+   copy shader 才能生效
