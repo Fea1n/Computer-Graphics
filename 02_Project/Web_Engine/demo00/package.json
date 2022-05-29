@@ -12,6 +12,7 @@
     "postprocessing": "^6.26.3",
     "three": "^0.139.2",
     "three-css2drender": "^1.0.0",
+    "three-fbx-loader": "^1.0.3",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbit-controls": "^82.1.0",
     "vue": "^2.6.11",
