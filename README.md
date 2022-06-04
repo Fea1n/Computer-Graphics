@@ -112,5 +112,9 @@ https://perso.telecom-paristech.fr/boubek/papers/WPBGI/
 
 
 
+闲聊：[神经渲染](https://zhuanlan.zhihu.com/p/130239269)的发展迅猛
+
+
+
 
 
