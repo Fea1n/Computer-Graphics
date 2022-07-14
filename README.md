@@ -1,21 +1,3 @@
-# WEBGL
-
-## vue 
-
-[菜鸟教程](https://www.runoob.com/vue3/vue3-tutorial.html)
-
-[官方文档](https://vuejs.bootcss.com/guide/instance.html)
-
-## three.js
-
-[官方文档](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
-
-## webgl
-
-[官方文档](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
-
-
-
 # 图形学基础
 
 ## 视频课
@@ -29,28 +11,6 @@
 
 
 
-
-# 资源网站
-
-[Sketchfab](https://sketchfab.com/3d-models/popular)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 读书笔记
-
-[计算机图形学原理及实践](https://www.zhihu.com/column/c_1289671371757428736)
 
 ## 相关博客
 
@@ -82,11 +42,7 @@ https://www.daimajiaoliu.com/daima/4ed345c80900404
 
 
 
-## 带佬
-
-
-
-
+## 神仙
 
 闫神
 
@@ -108,7 +64,7 @@ https://wangningbei.github.io/
 
 https://perso.telecom-paristech.fr/boubek/papers/WPBGI/
 
-
+https://lg-notes.herokuapp.com/
 
 
 
