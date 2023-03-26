@@ -1,10 +1,32 @@
-https://source.android.google.cn/devices/graphics/implement-vulkan?hl=zh-cn
-
-如何最终在安卓kirin9000上实现对原神的vulken优化
-
-http://itindex.net/detail/54138-google-vulkan-%E4%BD%9C%E4%B8%BA
+绘制三角形
 
 
+
+顶点缓冲区
+
+
+
+统一的缓冲区
+
+
+
+纹理映射
+
+
+
+深度缓冲
+
+
+
+加载模型
+
+
+
+生成MIPMAPS（多层渐进）
+
+
+
+多重采样
 
 
 
